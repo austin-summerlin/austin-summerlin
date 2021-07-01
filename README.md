@@ -1,6 +1,7 @@
 - 📍 Location: Portland, Oregon
 - 👩🏻‍🎤 Pronouns: they/them
 - 🔭 Website: https://summerlin.xyz 
+- 💻 Languages: JavaScript, CSS, HTML
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=austin-summerlin&show_icons=true&&count_private=true&include_all_commits=true&theme=bear" />
 <a href="https://github.com/austin-summerlin">
