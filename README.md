@@ -1,3 +1,9 @@
+<a href="https://github.com/austin-summerlin">
+<img align="center" alt="austin's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=austin-summerlin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/austin-summerlin">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=austin-summerlin&layout=compact&theme=radical" />
+</a>
 ### Hi there 👋
 
 <!--
