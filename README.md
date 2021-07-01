@@ -1,7 +1,6 @@
 - 📍 Location: Portland, Oregon
 - 👩🏻‍🎤 Pronouns: they/them
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Website: https://summerlin.xyz 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=austin-summerlin&show_icons=true&&count_private=true&include_all_commits=true&theme=bear" />
 <a href="https://github.com/austin-summerlin">
