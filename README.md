@@ -1,4 +1,4 @@
-Seeking ways to make technology less invasive in our lives using minimalist designs and sustainable architecture.
+Just a queer back-end focused softwarere engineer, seeking ways to make technology less invasive in our lives using minimalist designs and sustainable architecture.
 - 👩🏻‍🎤 Pronouns: they/them
 - 📍 Location: Portland, Oregon
 - 🔭 Website: https://summerlin.xyz 
