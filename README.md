@@ -1,7 +1,8 @@
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=austin-summerlin&show_icons=true&&count_private=true&include_all_commits=true&theme=bear" />
 <a href="https://github.com/austin-summerlin">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=austin-summerlin&layout=compact&theme=radical" />
 </a>
-### Hi there 👋
+
 
 <!--
 **austin-summerlin/austin-summerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
