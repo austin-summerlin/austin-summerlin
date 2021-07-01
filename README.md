@@ -7,7 +7,9 @@ Back-end focused Software Engineer, seeking ways to make technology less invasiv
     - Front-End: React
     - Testing: Jest
     - Databases: PostgreSQL
-    - Dev Tools: VS Code, Github, Heroku, Netlify, Postman, pgAdmin 
+    - Dev Tools: VS Code, Github, Heroku, Netlify, Postman, pgAdmin
+- 📸 Hobbies: Photography, Reading(mostly non-fiction), Gardening
+    
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=austin-summerlin&show_icons=true&&count_private=true&include_all_commits=true&theme=bear" />
 <a href="https://github.com/austin-summerlin">
