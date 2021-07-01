@@ -1,5 +1,5 @@
-- 📍 Location: Portland, Oregon
 - 👩🏻‍🎤 Pronouns: they/them
+- 📍 Location: Portland, Oregon
 - 🔭 Website: https://summerlin.xyz 
 - 💻 Tech: 
     - Languages: JavaScript, CSS, HTML
