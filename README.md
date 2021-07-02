@@ -1,6 +1,7 @@
 Back-end focused Software Engineer, seeking ways to make technology less invasive in our lives using minimalist designs and sustainable architecture.
 - 👩🏻‍🎤 Pronouns: they/them
 - 📍 Location: Portland, Oregon
+- 📨 Email: summerlin.austin@gmail.com
 - 🔭 Website: https://summerlin.xyz 
 - 💻 Tech: 
     - Languages: JavaScript, CSS, HTML
