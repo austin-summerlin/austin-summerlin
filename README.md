@@ -2,7 +2,7 @@ Back-end focused Software Engineer, seeking ways to make technology less invasiv
 - 👩🏻‍🎤 Pronouns: they/them
 - 📍 Location: Portland, Oregon
 - 📨 Email: summerlin.austin@gmail.com
-- 🔭 Website: https://summerlin.xyz 
+- 🔭 Website: https://summerlin.xyz (Under Construction 👷‍♀️)
 - 💻 Tech: 
     - Languages: JavaScript, CSS, HTML
     - Front-End: React
