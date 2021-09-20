@@ -1,14 +1,14 @@
-Back-end focused Software Engineer, seeking ways to make technology less invasive in our lives using minimalist designs and sustainable architecture.
+Code Witch/Full Stack Developer, seeking ways to make technology less invasive in our lives using minimalist designs and sustainable architecture.
 - 👩🏻‍🎤 Pronouns: they/them
 - 📍 Location: Portland, Oregon
 - 📨 Email: summerlin.austin@gmail.com
 - 🔭 Website: https://summerlin.xyz (Under Construction 👷‍♀️)
 - 💻 Tech: 
     - Languages: JavaScript, CSS, HTML
-    - Front-End: React
-    - Testing: Jest
+    - Front-End: React, ChartJS
+    - Testing: Jest, React Testing Library
     - Databases: PostgreSQL
-    - Dev Tools: VS Code, Github, Heroku, Netlify, Postman, pgAdmin
+    - Dev Tools: VS Code, Github, Heroku, Netlify, Postman, pgAdmin, Miro
 - 📸 Hobbies: Photography, Reading(mostly non-fiction), Gardening
     
 
