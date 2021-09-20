@@ -2,7 +2,7 @@ Code Witch/Full Stack Developer, seeking ways to make technology less invasive i
 - 👩🏻‍🎤 Pronouns: they/them
 - 📍 Location: Portland, Oregon
 - 📨 Email: summerlin.austin@gmail.com
-- 🔭 Website: https://summerlin.xyz (Under Construction 👷‍♀️)
+- 🔭 Website: https://summerlin.xyz
 - 💻 Tech: 
     - Languages: JavaScript, CSS, HTML
     - Front-End: React, ChartJS
